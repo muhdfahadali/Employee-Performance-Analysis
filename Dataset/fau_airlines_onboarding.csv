@@ -1,0 +1,101 @@
+id,study degree,previous_experience,civil_status,personality_traits,hobbies,favourite sport
+emp_001,economics,Expert.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around learning, reading and creative art",tennis
+emp_002,business,Novice.,single,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",volleyball
+emp_003,media,Advanced beginner.,married,"Introvert, empathetic, prefers a close circle of friends",Keen interest in finance and investment,volleyball
+emp_004,psychology,Competent.,single,"Helpful, emotionally intelligent and gets along well with others",Interest centered around physical activities and sports,tennis
+emp_005,economics,Proficient.,single,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",swimming
+emp_006,economics,Expert.,single,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_007,media,Competent.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_008,psychology,Proficient.,divorced,"Introvert, empathetic, prefers a close circle of friends","Interest centered around learning, reading and creative art",hiking
+emp_009,psychology,Novice.,married,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",cricket
+emp_010,communication,Advanced beginner.,single,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",football
+emp_011,communication,Novice.,single,"Intelligent, inquisitive and seeks out knowledge",Keen interest in finance and investment,volleyball
+emp_012,psychology,Advanced beginner.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",basketball
+emp_013,economics,Competent.,married,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",swimming
+emp_014,business,Proficient.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around learning, reading and creative art",swimming
+emp_015,communication,Expert.,married,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",swimming
+emp_016,business,Competent.,divorced,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",hiking
+emp_017,media,Expert.,in a relationship,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,cricket
+emp_018,economics,Proficient.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",tennis
+emp_019,communication,Novice.,divorced,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,volleyball
+emp_020,psychology,Expert.,married,"Extrovert, enjoys group work and likes to communicate by talking",Keen interest in finance and investment,volleyball
+emp_021,media,Novice.,married,"Intelligent, inquisitive and seeks out knowledge","Interest centered around learning, reading and creative art",tennis
+emp_022,business,Advanced beginner.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_023,communication,Proficient.,single,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",cricket
+emp_024,business,Competent.,in a relationship,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",swimming
+emp_025,media,Competent.,in a relationship,"Introvert, empathetic, prefers a close circle of friends",Keen interest in finance and investment,swimming
+emp_026,economics,Novice.,in a relationship,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",football
+emp_027,communication,Advanced beginner.,single,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",tennis
+emp_028,business,Competent.,married,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,tennis
+emp_029,media,Novice.,single,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",tennis
+emp_030,media,Competent.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around fitness, health, and wellbeing",basketball
+emp_031,psychology,Proficient.,single,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",tennis
+emp_032,economics,Proficient.,married,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",tennis
+emp_033,media,Advanced beginner.,divorced,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,volleyball
+emp_034,communication,Advanced beginner.,in a relationship,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",volleyball
+emp_035,media,Competent.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around learning, reading and creative art",volleyball
+emp_036,media,Competent.,divorced,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",swimming
+emp_037,communication,Novice.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",cricket
+emp_038,media,Novice.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around learning, reading and creative art",swimming
+emp_039,economics,Expert.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_040,communication,Novice.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",football
+emp_041,business,Expert.,divorced,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,tennis
+emp_042,media,Advanced beginner.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_043,media,Advanced beginner.,married,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_044,psychology,Expert.,divorced,Easily upset and overly critical of the self,Keen interest in finance and investment,basketball
+emp_045,economics,Novice.,married,"Extrovert, enjoys group work and likes to communicate by talking",Keen interest in finance and investment,tennis
+emp_046,media,Advanced beginner.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",tennis
+emp_047,economics,Competent.,single,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",volleyball
+emp_048,economics,Advanced beginner.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",volleyball
+emp_049,media,Advanced beginner.,divorced,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around learning, reading and creative art",volleyball
+emp_050,psychology,Competent.,in a relationship,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",tennis
+emp_051,economics,Competent.,married,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_052,economics,Novice.,divorced,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",swimming
+emp_053,media,Novice.,married,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",tennis
+emp_054,economics,Proficient.,married,"Intelligent, inquisitive and seeks out knowledge","Interest centered around learning, reading and creative art",tennis
+emp_055,communication,Advanced beginner.,single,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",swimming
+emp_056,business,Advanced beginner.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_057,media,Expert.,divorced,"Introvert, empathetic, prefers a close circle of friends","Interest centered around learning, reading and creative art",cricket
+emp_058,media,Expert.,in a relationship,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",swimming
+emp_059,psychology,Novice.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around learning, reading and creative art",swimming
+emp_060,economics,Expert.,divorced,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",football
+emp_061,media,Advanced beginner.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",tennis
+emp_062,economics,Expert.,married,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_063,economics,Advanced beginner.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",tennis
+emp_064,business,Advanced beginner.,single,Easily upset and overly critical of the self,"Interest centered around learning, reading and creative art",basketball
+emp_065,media,Novice.,in a relationship,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",tennis
+emp_066,media,Novice.,single,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",tennis
+emp_067,psychology,Novice.,married,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,volleyball
+emp_068,business,Expert.,divorced,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_069,business,Expert.,in a relationship,"Intelligent, inquisitive and seeks out knowledge","Interest centered around learning, reading and creative art",swimming
+emp_070,media,Advanced beginner.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",swimming
+emp_071,economics,Expert.,divorced,Easily upset and overly critical of the self,"Interest centered around learning, reading and creative art",cricket
+emp_072,communication,Advanced beginner.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_073,business,Advanced beginner.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",swimming
+emp_074,media,Expert.,married,"Helpful, emotionally intelligent and gets along well with others",Keen interest in finance and investment,football
+emp_075,psychology,Advanced beginner.,divorced,"Introvert, empathetic, prefers a close circle of friends","Interest centered around learning, reading and creative art",tennis
+emp_076,psychology,Novice.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",tennis
+emp_077,economics,Advanced beginner.,married,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",tennis
+emp_078,media,Competent.,divorced,"Intelligent, inquisitive and seeks out knowledge","Interest centered around fitness, health, and wellbeing",basketball
+emp_079,business,Proficient.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around learning, reading and creative art",tennis
+emp_080,business,Expert.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around learning, reading and creative art",tennis
+emp_081,economics,Competent.,single,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",volleyball
+emp_082,media,Proficient.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",volleyball
+emp_083,psychology,Novice.,in a relationship,"Intelligent, inquisitive and seeks out knowledge","Interest centered around learning, reading and creative art",volleyball
+emp_084,psychology,Advanced beginner.,in a relationship,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around learning, reading and creative art",tennis
+emp_085,economics,Novice.,single,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",swimming
+emp_086,communication,Advanced beginner.,single,"Helpful, emotionally intelligent and gets along well with others","Interest centered around learning, reading and creative art",swimming
+emp_087,communication,Competent.,married,"Extrovert, enjoys group work and likes to communicate by talking","Interest centered around fitness, health, and wellbeing",cricket
+emp_088,media,Novice.,divorced,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",swimming
+emp_089,economics,Advanced beginner.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",swimming
+emp_090,communication,Competent.,married,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",football
+emp_091,business,Proficient.,divorced,"Introvert, empathetic, prefers a close circle of friends","Interest centered around fitness, health, and wellbeing",tennis
+emp_092,media,Expert.,married,Easily upset and overly critical of the self,"Interest centered around learning, reading and creative art",tennis
+emp_093,media,Competent.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",tennis
+emp_094,psychology,Proficient.,married,"Helpful, emotionally intelligent and gets along well with others","Interest centered around learning, reading and creative art",basketball
+emp_095,economics,Novice.,single,"Intelligent, inquisitive and seeks out knowledge","Interest centered around learning, reading and creative art",tennis
+emp_096,media,Advanced beginner.,in a relationship,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",tennis
+emp_097,communication,Novice.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest centered around learning, reading and creative art",volleyball
+emp_098,communication,Advanced beginner.,single,Easily upset and overly critical of the self,"Interest centered around fitness, health, and wellbeing",swimming
+emp_099,psychology,Competent.,in a relationship,"Helpful, emotionally intelligent and gets along well with others","Interest centered around fitness, health, and wellbeing",swimming
+emp_100,psychology,Advanced beginner.,in a relationship,"Extrovert, expresses themselves easily, outgoing and seeks out social interaction and conversations","Interest in around reading and creative art, fitness and investment",swimming
